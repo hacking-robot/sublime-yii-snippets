@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[<?php echo CHtml::closeTag('${1:tag}'); ?>$0]]></content>
+    <tabTrigger>hct</tabTrigger>
+    <scope>text</scope>
+    <description>Yii CHtml::closeTag</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[<?php echo CHtml::beginForm(${1:array('$2')}, '${3:post}'${4:, array('${5:optionName}'=>${6:optionValue})}); ?>
+$0
+<?php echo CHtml::endForm(); ?>]]></content>
+    <tabTrigger>hbeform</tabTrigger>
+    <scope>text</scope>
+    <description>Yii CHtml::beginForm</description>
+</snippet>

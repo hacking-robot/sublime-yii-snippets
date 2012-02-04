@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Yii::import('$1');]]></content>
+    <tabTrigger>imp</tabTrigger>
+    <scope>source.php</scope>
+    <description>Yii import</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[<?php echo CHtml::metaTag('${1:content}', '${2:name}', '${3:httpEquiv}', ${4:, array('${5:optionName}'=>${6:optionValue})}); ?>$0]]></content>
+    <tabTrigger>hmetat</tabTrigger>
+    <scope>text.html</scope>
+    <description>Yii CHtml::metaTag</description>
+</snippet>

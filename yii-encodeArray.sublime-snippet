@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[<?php echo CHtml::encodeArray(array($1)); ?>$0]]></content>
+    <tabTrigger>heca</tabTrigger>
+    <scope>text</scope>
+    <description>Yii CHtml::encodeArray</description>
+</snippet>

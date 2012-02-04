@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[<?php echo CHtml::checkBox('${1:name}', ${2:false}${3:, array('${4:optionName}'=>${5:optionValue})}); ?>$0]]></content>
+    <tabTrigger>hcb</tabTrigger>
+    <scope>text</scope>
+    <description>Yii CHtml::checkBox</description>
+</snippet>

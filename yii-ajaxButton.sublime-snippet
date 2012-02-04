@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[<?php echo CHtml::ajaxButton('${1:label}', '${2:url}'${3:, array('${4:ajaxOptionName}'=>${5:ajaxOptionValue})}${6:, array('${7:optionName}'=>${8:optionValue})}); ?>$0]]></content>
+    <tabTrigger>hajb</tabTrigger>
+    <scope>text</scope>
+    <description>Yii CHtml::ajaxButton</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[<?php echo CHtml::linkTag('${1:relation}', '${2:type}', '${3:href}', '${4:media}'${5:, array('${6:optionName}'=>${7:optionValue})}); ?>$0]]></content>
+    <tabTrigger>hlinkt</tabTrigger>
+    <scope>text.html</scope>
+    <description>Yii CHtml::linkTag</description>
+</snippet>

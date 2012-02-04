@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[<?php echo CHtml::cssFile('${1:url}'${2:, '${3:media}'}); ?>$0]]></content>
+    <tabTrigger>hcssf</tabTrigger>
+    <scope>text.html</scope>
+    <description>Yii CHtml::cssFile</description>
+</snippet>
