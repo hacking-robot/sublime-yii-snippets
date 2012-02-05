@@ -1,9 +1,9 @@
 <snippet>
 	<content><![CDATA[
-	public function action${1:Index}()
-	{
-	    $0
-	}
+public function action${1:Index}()
+{
+	$0
+}
 ]]></content>
     <tabTrigger>act</tabTrigger>
     <scope>source.php</scope>
