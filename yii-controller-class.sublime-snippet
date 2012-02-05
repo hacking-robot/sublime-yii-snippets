@@ -5,7 +5,7 @@
 /**
  * ${1:}
  */
-class ${2:Site}Controller extends ${3:CController}()
+class ${2:Site}Controller extends ${3:CController}
 {
     public function action${4:Index}()
     {
