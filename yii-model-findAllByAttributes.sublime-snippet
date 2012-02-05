@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[${1:ModelName}::model()->findAllByAttributes(${2:array('${3:attributeName}'=>${4:attributeValue})}, ${5:condition}${6:, array('${7:key}'=>${8:value})})$0]]></content>
-    <tabTrigger>mfindaba</tabTrigger>
+    <tabTrigger>findaba</tabTrigger>
     <scope>source.php</scope>
     <description>Yii Model findAllByAttributes</description>
 </snippet>

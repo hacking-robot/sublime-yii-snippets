@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Yii::app()->user->$1]]></content>
+    <tabTrigger>user</tabTrigger>
+    <scope>source.php</scope>
+    <description>Yii user-></description>
+</snippet>

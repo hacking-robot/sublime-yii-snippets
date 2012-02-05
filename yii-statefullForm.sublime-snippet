@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[<?php echo CHtml::statefulForm(array('${1}'), '${2:post}'${3:, array('${4:optionName}'=>${6:optionValue})}); ?>]]></content>
+    <tabTrigger>hsform</tabTrigger>
+    <scope>text.html</scope>
+    <description>Yii CHtml::statefulForm</description>
+</snippet>

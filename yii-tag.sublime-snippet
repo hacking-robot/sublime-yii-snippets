@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[<?php echo CHtml::tag('${1:tag}'${2:, array('${3:optionName}'=>${4:optionValue})}${5:, ${6:false}}${7:, ${8:true}}); ?>$0]]></content>
+    <tabTrigger>ht</tabTrigger>
+    <scope>text.html</scope>
+    <description>Yii CHtml::tag</description>
+</snippet>

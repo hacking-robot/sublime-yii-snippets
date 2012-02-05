@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[\$this->refresh();$0]]></content>
+    <tabTrigger>rf</tabTrigger>
+    <scope>source.php</scope>
+    <description>Yii refresh</description>
+</snippet>

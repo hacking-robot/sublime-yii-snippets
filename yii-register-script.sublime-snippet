@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Yii::app()->clientScript->registerScript('${1:id}', '$2', CClientScript::POS_${3:READY});$0]]></content>
+    <tabTrigger>regs</tabTrigger>
+    <scope>source.php</scope>
+    <description>Yii register script</description>
+</snippet>
