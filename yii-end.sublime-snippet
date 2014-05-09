@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Yii::app()->end()]]></content>
+    <tabTrigger>yend</tabTrigger>
+    <scope>source.php</scope>
+    <description>Yii app end()</description>
+</snippet>
