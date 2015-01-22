@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Yii::app()->request->baseUrl]]></content>
+    <tabTrigger>yBaseUrl</tabTrigger>
+    <scope>source.php</scope>
+    <description>Yii request baseUrl</description>
+</snippet>
