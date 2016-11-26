@@ -1,3 +1,8 @@
+# This repo is no longer maintained. #
+
+
+
+
 This is a [Sublime Text][sublime] package which includes a bunch of handy snippets for doing Yii framework development.
 
 ## Installation ##
